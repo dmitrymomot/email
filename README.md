@@ -1,5 +1,15 @@
 # email
 
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/dmitrymomot/email)](https://github.com/dmitrymomot/email/tags)
+[![Go Reference](https://pkg.go.dev/badge/github.com/dmitrymomot/email.svg)](https://pkg.go.dev/github.com/dmitrymomot/email)
+[![License](https://img.shields.io/github/license/dmitrymomot/email)](https://github.com/dmitrymomot/email/blob/main/LICENSE)
+
+
+[![Tests](https://github.com/dmitrymomot/email/actions/workflows/tests.yml/badge.svg)](https://github.com/dmitrymomot/email/actions/workflows/tests.yml)
+[![CodeQL Analysis](https://github.com/dmitrymomot/email/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/dmitrymomot/email/actions/workflows/codeql-analysis.yml)
+[![GolangCI Lint](https://github.com/dmitrymomot/email/actions/workflows/golangci-lint.yml/badge.svg)](https://github.com/dmitrymomot/email/actions/workflows/golangci-lint.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dmitrymomot/email)](https://goreportcard.com/report/github.com/dmitrymomot/email)
+
 Email Validation and Sanitization Module
 
 ## Summary
